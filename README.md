@@ -1,4 +1,4 @@
-# Travel Tracker ✈️
+# Travel Tracker ✈️🌏
 
 A full-stack web application to track the countries you have visited. Enter a country name, and the map will highlight ("glow up") the country. Built with Node.js, Express, PostgreSQL, and EJS.
 
